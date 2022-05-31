@@ -1,0 +1,1 @@
+### Implementation of Genetic Algorythm for solving NQueen problem
